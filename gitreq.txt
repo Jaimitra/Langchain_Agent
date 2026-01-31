@@ -1,6 +1,7 @@
-langchain
-langchain_community
-langchain_core
 streamlit
-langchain_ollama
+langchain
+langchain-community
+langchain-ollama
+ollama
+
 
